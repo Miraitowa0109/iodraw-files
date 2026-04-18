@@ -26,16 +26,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-7" value="专家肉眼识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECz1itYY7lP3bDj9UlBB-9" target="ECz1itYY7lP3bDj9UlBB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-9" value="查书/经验判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-10" value="施药" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-14" value="周期长，主观性强" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="105" y="585" width="150" height="30" as="geometry" />
