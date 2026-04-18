@@ -8,7 +8,7 @@
           <mxGeometry x="380" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;传统人工检测与深度学习自动检测流程对比&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="70" width="280" height="70" as="geometry" />
+          <mxGeometry x="220" y="70" width="466" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
