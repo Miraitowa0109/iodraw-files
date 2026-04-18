@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ECz1itYY7lP3bDj9UlBB-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;传统人工检测与深度学习自动检测流程对比&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="466" height="50" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-7" value="专家肉眼识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECz1itYY7lP3bDj9UlBB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECz1itYY7lP3bDj9UlBB-9" target="ECz1itYY7lP3bDj9UlBB-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-9" value="查书/经验判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
