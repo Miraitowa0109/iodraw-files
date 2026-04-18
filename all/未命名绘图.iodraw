@@ -22,10 +22,10 @@
         <mxCell id="ECz1itYY7lP3bDj9UlBB-7" value="专家肉眼识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ECz1itYY7lP3bDj9UlBB-9" value="查书/经验判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECz1itYY7lP3bDj9UlBB-9" value="查书/经验判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ECz1itYY7lP3bDj9UlBB-10" value="施药" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECz1itYY7lP3bDj9UlBB-10" value="施药" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
