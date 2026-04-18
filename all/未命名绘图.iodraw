@@ -8,7 +8,7 @@
           <mxGeometry x="540" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;传统人工检测与深度学习自动检测流程对比&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="466" height="50" as="geometry" />
+          <mxGeometry x="150" y="70" width="466" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECz1itYY7lP3bDj9UlBB-5" target="ECz1itYY7lP3bDj9UlBB-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
