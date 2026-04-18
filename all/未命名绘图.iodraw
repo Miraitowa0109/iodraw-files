@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ECz1itYY7lP3bDj9UlBB-1" value="实时，客观" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ECz1itYY7lP3bDj9UlBB-1" value="实时，客观" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="540" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECz1itYY7lP3bDj9UlBB-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;传统人工检测与深度学习自动检测流程对比&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
